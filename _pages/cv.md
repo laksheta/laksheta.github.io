@@ -14,7 +14,7 @@ Education
 * M.Eng. in Electrical Engineering, Universitas Gadjah Mada, 2026 (expected)
 * S.T. in Electrical Engineering, Universitas Gadjah Mada, 2024
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -29,7 +29,7 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
 
 Research & Project Experience
 ======
@@ -52,17 +52,11 @@ Professional Experience
 
 Academic Experience
 ======
-* Aug 2022 – Nov 2022: Academic Tutor (Vector and Matrix Theory)
-  * Universitas Gadjah Mada
-  * Core Responsibilities: Conducted weekly classes on vector space interpretations, simultaneous linear equations, and the Gram-Schmidt process.
+* **Aug 2022 – Nov 2022**<br>*Academic Tutor (Vector and Matrix Theory)*<br>*Universitas Gadjah Mada*<br>• Taught vector spaces, simultaneous linear equations, and the Gram-Schmidt process.
 
-* Feb 2022 – June 2022: Academic Tutor (Complex Variable Analysis)
-  * Universitas Gadjah Mada
-  * Core Responsibilities: Conducted weekly classes on analytic functions, Cauchy's Theorem, and application of Taylor, Laurent, and Fourier series.
+* **Feb 2022 – June 2022**<br>*Academic Tutor (Complex Variable Analysis)*<br>*Universitas Gadjah Mada*<br>• Taught analytic functions, Cauchy’s Theorem, and applications of Taylor, Laurent, and Fourier series.
 
-* Aug 2021 – Nov 2021: Academic Tutor (Linear Algebra)
-  * Universitas Gadjah Mada
-  * Core Responsibilities: Conducted weekly classes on Gauss-Jordan elimination, LU factorization, and Singular Value Decomposition (SVD).
+* **Aug 2021 – Nov 2021**<br>*Academic Tutor (Linear Algebra)*<br>*Universitas Gadjah Mada*<br>• Taught Gauss-Jordan elimination, LU factorization, and Singular Value Decomposition (SVD).
 
 Skills
 ======
