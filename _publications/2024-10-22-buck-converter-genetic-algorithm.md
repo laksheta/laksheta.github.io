@@ -10,9 +10,3 @@ citation: '<b>Krishna Laksheta</b>, Y. F. Sidik, and F. D. Wijaya, "Buck Convert
 ---
 
 This research applies a Genetic Algorithm (GA) to optimize the design parameters of a Buck converter. By utilizing artificial intelligence, the study identifies the most efficient component values to minimize ripple and improve transient response, demonstrating the effectiveness of evolutionary computation in power electronic circuit design.
-
-
-
-
-
-[Image of Buck converter circuit diagram]
