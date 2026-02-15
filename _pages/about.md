@@ -23,6 +23,26 @@ Universitas Gadjah Mada<br>
 Aug 2020 – Aug 2024<br>
 GPA: 3.71 / 4.00
 
+Technical Skills
+======
+
+**Simulation and HIL**<br>
+- Software: PLECS, Typhoon HIL, LTspice<br>
+- Hardware: Typhoon HIL 604, Plexim RT Box
+
+**Embedded Systems and Control**<br>
+- Microcontrollers: Texas Instruments C2000 series (F28379D, F28069M, F280049C)<br>
+- Prototyping: PLECS Coder and TI Launchpad integration
+
+**Programming and Data**<br>
+- C, Python (TensorFlow, NumPy, Pandas)<br>
+- LaTeX and Markdown
+
+<!-- **Hardware Design**
+- PCB Design and High-Voltage circuit prototyping
+- Power electronics hardware validation up to 7kW
+- Solenoid valve integration -->
+
 <!-- -- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
