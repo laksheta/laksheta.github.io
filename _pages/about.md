@@ -10,10 +10,20 @@ redirect_from:
 
 I’m a Master of Engineering student specializing in Power Electronics and Control Systems. I’ve gained extensive experience in Solid-State Transformer (SST) modeling, particularly with Modular Multilevel Converters (MMC) and Dual Active Bridge (DAB) converters. In addition, I’ve explored Hardware-in-the-Loop (HIL) simulations and conducted hardware testing. Currently, my research focuses on developing fault-tolerant control strategies for DAB converters and building SST models using Typhoon HIL.
 
+Education
+======
 
----
+**Master of Electrical Engineering**<br>
+Universitas Gadjah Mada<br>
+Feb 2025 – Dec 2026 (Expected)<br>
+GPA: 3.93 / 4.00
 
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+**Bachelor of Electrical Engineering**<br>
+Universitas Gadjah Mada<br>
+Aug 2020 – Aug 2024<br>
+GPA: 3.71 / 4.00
+
+<!-- -- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
