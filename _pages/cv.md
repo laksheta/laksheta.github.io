@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Master of Electrical Engineering, Universitas Gadjah Mada, 2026 (expected)
-* Bachelor of Electrical Engineering, Universitas Gadjah Mada, 2024
-
+* M.Eng. in Electrical Engineering, Universitas Gadjah Mada, 2026 (expected)
+* S.T. in Electrical Engineering, Universitas Gadjah Mada, 2024
 Work experience
+
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
