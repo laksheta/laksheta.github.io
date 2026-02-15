@@ -10,19 +10,6 @@ redirect_from:
 
 I’m a Master of Engineering student specializing in Power Electronics and Control Systems. I’ve gained extensive experience in Solid-State Transformer (SST) modeling, particularly with Modular Multilevel Converters (MMC) and Dual Active Bridge (DAB) converters. In addition, I’ve explored Hardware-in-the-Loop (HIL) simulations and conducted hardware testing. Currently, my research focuses on developing fault-tolerant control strategies for DAB converters and building SST models using Typhoon HIL.
 
-Education
-======
-
-**Master of Electrical Engineering**<br>
-Universitas Gadjah Mada<br>
-Feb 2025 – Dec 2026 (Expected)<br>
-GPA: 3.93 / 4.00
-
-**Bachelor of Electrical Engineering**<br>
-Universitas Gadjah Mada<br>
-Aug 2020 – Aug 2024<br>
-GPA: 3.71 / 4.00
-
 Technical Skills
 ======
 
