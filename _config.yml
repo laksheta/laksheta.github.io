@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Laksheta | Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Laksheta"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "http://127.0.0.1:4000" #https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,12 +23,12 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hajime.jpeg"
-  name             : "Laksheta"
+  avatar           : "profile.jpg"
+  name             : "Krishna Laksheta"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Yogyakarta, Indonesia"
-  employer         : #"Red Brick University"
+  employer         : "Universitas Gadjah Mada"
   uri              : # URL
   email            : "krishnalaksheta@gmail.com" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : krishna-laksheta-2858741b8 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -89,7 +89,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Test Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
