@@ -10,21 +10,6 @@ redirect_from:
 
 I’m a Master of Engineering student specializing in Power Electronics and Control Systems. I’ve gained extensive experience in Solid-State Transformer (SST) modeling, particularly with Modular Multilevel Converters (MMC) and Dual Active Bridge (DAB) converters. In addition, I’ve explored Hardware-in-the-Loop (HIL) simulations and conducted hardware testing. Currently, my research focuses on developing fault-tolerant control strategies for DAB converters and building SST models using Typhoon HIL.
 
-Technical Skills
-======
-
-**Simulation and HIL**<br>
-- Software: PLECS, Typhoon HIL, LTspice<br>
-- Hardware: Typhoon HIL 604, Plexim RT Box
-
-**Embedded Systems and Control**<br>
-- Microcontrollers: Texas Instruments C2000 series (F28379D, F28069M, F280049C)<br>
-- Prototyping: PLECS Coder and TI Launchpad integration
-
-**Programming and Data**<br>
-- C, Python (TensorFlow, NumPy, Pandas)<br>
-- LaTeX and Markdown
-
 <!-- **Hardware Design**
 - PCB Design and High-Voltage circuit prototyping
 - Power electronics hardware validation up to 7kW

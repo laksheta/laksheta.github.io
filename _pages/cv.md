@@ -33,12 +33,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Simulation and HIL
+  * Software: PLECS, Typhoon HIL, LTspice
+  * Hardware: Typhoon HIL 604, Plexim RT Box
+* Embedded Systems & Control
+  * Microcontrollers: Texas Instruments C2000 (F28379D, F28069M, F280049C)
+  * Prototyping: PLECS Coder and TI Launchpad integration
+* Programming and Data
+  * C, Python (TensorFlow, NumPy, Pandas)
+  * Documentation: LaTeX and Markdown
 
 Publications
 ======
