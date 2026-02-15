@@ -34,27 +34,21 @@ Work experience
 Research & Project Experience
 ======
 
-**Aug 2025 – Present**<br>*Control & Simulation Researcher (MMC-SST Integration)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Develop full-scale Solid State Transformer (SST) simulations in Typhoon HIL.<br>• Simplify complex converter models for real-time execution optimization.<br>• Implement high-level control via PLC.
+* **Aug 2025 – Present**<br>*Control & Simulation Researcher (MMC-SST Integration)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Develop full-scale Solid State Transformer (SST) simulations in Typhoon HIL.<br>• Simplify complex converter models for real-time execution optimization.<br>• Implement high-level control via PLC.
 
-**Feb 2025 – Present**<br>*Graduate Researcher (DAB Fault-Tolerant Control)*<br>*Universitas Gadjah Mada*<br>• Develop Fault-Tolerant Control (FTC) strategies for Dual-Active Bridge (DAB) converters.<br>• Investigate advanced topologies to mitigate hardware faults.
+* **Feb 2025 – Present**<br>*Graduate Researcher (DAB Fault-Tolerant Control)*<br>*Universitas Gadjah Mada*<br>• Develop Fault-Tolerant Control (FTC) strategies for Dual-Active Bridge (DAB) converters.<br>• Investigate advanced topologies to mitigate hardware faults.
 
-**Nov 2024 – July 2025**<br>*Power Electronics Control Researcher (SST & DAB Hardware Testing)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Design startup and coordination schemes in PLECS.<br>• Validate DAB control algorithms on a 7kW prototype using TI F28379D.
+* **Nov 2024 – July 2025**<br>*Power Electronics Control Researcher (SST & DAB Hardware Testing)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Design startup and coordination schemes in PLECS.<br>• Validate DAB control algorithms on a 7kW prototype using TI F28379D.
 
-**Nov 2023 – July 2024**<br>*Embedded Power Electronics & HIL Researcher (MMC Systems)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Program MMC control logic using PLECS Coder.<br>• Validate SST performance via Typhoon HIL 604.<br>• Synchronize signal routing across multiple DSPs.
+* **Nov 2023 – July 2024**<br>*Embedded Power Electronics & HIL Researcher (MMC Systems)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Program MMC control logic using PLECS Coder.<br>• Validate SST performance via Typhoon HIL 604.<br>• Synchronize signal routing across multiple DSPs.
 
 Professional Experience
 ======
-* Aug 2023 – Dec 2023: Machine Learning Student
-  * Bangkit Academy
-  * Core Responsibilities: Developed a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
+* **Aug 2023 – Dec 2023**<br>*Machine Learning Student*<br>*Bangkit Academy*<br>• Developed a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
 
-* July 2021 – July 2023: Electronics Division Lead
-  * Gadjah Mada Robotic Team (Fukuro)
-  * Core Responsibilities: Engineered high-voltage kicker boards with solenoid valves; managed PCB design and component selection for autonomous soccer robots.
+* **July 2021 – July 2023**<br>*Electronics Division Lead*<br>*Gadjah Mada Robotic Team (Fukuro)*<br>• Engineered high-voltage kicker boards with solenoid valves for autonomous soccer robots.<br>• Led PCB design and component selection for robot systems.
 
-* June 2022 – July 2022: PCB Designer
-  * PT Helber Elektronika Indonesia
-  * Core Responsibilities: Designed an integrated PCB merging Arduino Uno and ESP 12-E for wireless embedded applications.
+* **June 2022 – July 2022**<br>*PCB Designer*<br>*PT Helber Elektronika Indonesia*<br>• Designed integrated PCBs combining Arduino Uno and ESP 12-E for wireless applications.
 
 Academic Experience
 ======
