@@ -34,29 +34,75 @@ Education
 Research & Project Experience
 ======
 
-* **Aug 2025 – Present**<br>*Control & Simulation Researcher (MMC-SST Integration)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Develop full-scale Solid State Transformer (SST) simulations in Typhoon HIL.<br>• Simplify complex converter models for real-time execution optimization.<br>• Implement high-level control via PLC.
+* **Control & Simulation Researcher (MMC-SST Integration)**<br>
+*Aug 2025 – Present*<br>
+*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>
+• Develop full-scale Solid State Transformer (SST) simulations in Typhoon HIL.<br>
+• Simplify complex converter models for real-time execution optimization.<br>
+• Implement high-level control via PLC.
 
-* **Feb 2025 – Present**<br>*Graduate Researcher (DAB Fault-Tolerant Control)*<br>*Universitas Gadjah Mada*<br>• Develop Fault-Tolerant Control (FTC) strategies for Dual-Active Bridge (DAB) converters.<br>• Investigate advanced topologies to mitigate hardware faults.
+* **Graduate Researcher (DAB Fault-Tolerant Control)**<br>
+*Feb 2025 – Present*<br>
+*Universitas Gadjah Mada*<br>
+• Develop Fault-Tolerant Control (FTC) strategies for Dual-Active Bridge (DAB) converters.<br>
+• Investigate advanced converter topologies to mitigate hardware faults.
 
-* **Nov 2024 – July 2025**<br>*Power Electronics Control Researcher (SST & DAB Hardware Testing)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Design startup and coordination schemes in PLECS.<br>• Validate DAB control algorithms on a 7kW prototype using TI F28379D.
+* **Power Electronics Control Researcher (SST & DAB Hardware Testing)**<br>
+*Nov 2024 – July 2025*<br>
+*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>
+• Design startup and coordination schemes using PLECS.<br>
+• Validate DAB control algorithms on a 7 kW prototype using TI F28379D DSP.
 
-* **Nov 2023 – July 2024**<br>*Embedded Power Electronics & HIL Researcher (MMC Systems)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Program MMC control logic using PLECS Coder.<br>• Validate SST performance via Typhoon HIL 604.<br>• Synchronize signal routing across multiple DSPs.
+* **Embedded Power Electronics & HIL Researcher (MMC Systems)**<br>
+*Nov 2023 – July 2024*<br>
+*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>
+• Program MMC control logic using PLECS Coder.<br>
+• Validate SST performance using Typhoon HIL 604.<br>
+• Synchronize signal routing across multiple DSPs.
+
+* **Embedded Power Electronics & HIL Researcher (DAB Systems)**<br>
+*Feb 2023 – Jun 2023*<br>
+*Universitas Gadjah Mada – PT PLN (Persero) Collaboration*<br>
+• Program DAB control logic for TI F28069M using PLECS Coder.<br>
+• Validate control prototypes using Typhoon HIL 604.
 
 Professional Experience
 ======
-* **Aug 2023 – Dec 2023**<br>*Machine Learning Student*<br>*Bangkit Academy*<br>• Developed a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
 
-* **July 2021 – July 2023**<br>*Electronics Division Lead*<br>*Gadjah Mada Robotic Team (Fukuro)*<br>• Engineered high-voltage kicker boards with solenoid valves for autonomous soccer robots.<br>• Led PCB design and component selection for robot systems.
+* **Machine Learning Student**<br>
+*Aug 2023 – Dec 2023*<br>
+*Bangkit Academy*<br>
+• Develop a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
 
-* **June 2022 – July 2022**<br>*PCB Designer*<br>*PT Helber Elektronika Indonesia*<br>• Designed integrated PCBs combining Arduino Uno and ESP 12-E for wireless applications.
+* **Electronics Division Lead**<br>
+*July 2021 – July 2023*<br>
+*Gadjah Mada Robotic Team (Fukuro)*<br>
+• Engineer high-voltage kicker boards with solenoid valves for autonomous soccer robots.<br>
+• Lead PCB design and component selection for robot systems.
+
+* **PCB Designer**<br>
+*June 2022 – July 2022*<br>
+*PT Helber Elektronika Indonesia*<br>
+• Design integrated PCBs combining Arduino Uno and ESP 12-E for wireless applications.
+
 
 Academic Experience
 ======
-* **Aug 2022 – Nov 2022**<br>*Academic Tutor (Vector and Matrix Theory)*<br>*Universitas Gadjah Mada*<br>• Taught vector spaces, simultaneous linear equations, and the Gram-Schmidt process.
 
-* **Feb 2022 – June 2022**<br>*Academic Tutor (Complex Variable Analysis)*<br>*Universitas Gadjah Mada*<br>• Taught analytic functions, Cauchy’s Theorem, and applications of Taylor, Laurent, and Fourier series.
+* **Academic Tutor (Vector and Matrix Theory)**<br>
+*Aug 2022 – Nov 2022*<br>
+*Universitas Gadjah Mada*<br>
+• Teach vector spaces, simultaneous linear equations, and the Gram–Schmidt process.
 
-* **Aug 2021 – Nov 2021**<br>*Academic Tutor (Linear Algebra)*<br>*Universitas Gadjah Mada*<br>• Taught Gauss-Jordan elimination, LU factorization, and Singular Value Decomposition (SVD).
+* **Academic Tutor (Complex Variable Analysis)**<br>
+*Feb 2022 – June 2022*<br>
+*Universitas Gadjah Mada*<br>
+• Teach analytic functions, Cauchy’s Theorem, and applications of Taylor, Laurent, and Fourier series.
+
+* **Academic Tutor (Linear Algebra)**<br>
+*Aug 2021 – Nov 2021*<br>
+*Universitas Gadjah Mada*<br>
+• Teach Gauss–Jordan elimination, LU factorization, and Singular Value Decomposition (SVD).
 
 Skills
 ======
