@@ -35,10 +35,10 @@ I’m a Master of Engineering student specializing in Power Electronics and Cont
 </style>
 
 <div class="work-dump">
-  <img src="/assets/images/lab_work_1.jpg" alt="">
-  <img src="/assets/images/pcb_design.jpg" alt="">
-  <img src="/assets/images/testing_setup.jpg" alt="">
-  <img src="/assets/images/oscilloscope_reading.jpg" alt="">
-  <img src="/assets/images/soldering.jpg" alt="">
-  <img src="/assets/images/desk_setup.jpg" alt="">
+  <img src="/images/500x300.png" alt="">
+  <img src="/images/500x300.png" alt="">
+  <img src="/images/500x300.png" alt="">
+  <img src="/images/500x300.png" alt="">
+  <img src="/images/500x300.png" alt="">
+  <img src="/images/500x300.png" alt="">
 </div>
