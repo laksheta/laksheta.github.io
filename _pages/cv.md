@@ -68,19 +68,41 @@ Research & Project Experience
 
 Professional Experience
 ======
-* **Aug 2023 – Dec 2023**<br>*Machine Learning Student*<br>*Bangkit Academy*<br>• Developed a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
 
-* **July 2021 – July 2023**<br>*Electronics Division Lead*<br>*Gadjah Mada Robotic Team (Fukuro)*<br>• Engineered high-voltage kicker boards with solenoid valves for autonomous soccer robots.<br>• Led PCB design and component selection for robot systems.
+* **Machine Learning Student**<br>
+*Aug 2023 – Dec 2023*<br>
+*Bangkit Academy*<br>
+• Develop a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
 
-* **June 2022 – July 2022**<br>*PCB Designer*<br>*PT Helber Elektronika Indonesia*<br>• Designed integrated PCBs combining Arduino Uno and ESP 12-E for wireless applications.
+* **Electronics Division Lead**<br>
+*July 2021 – July 2023*<br>
+*Gadjah Mada Robotic Team (Fukuro)*<br>
+• Engineer high-voltage kicker boards with solenoid valves for autonomous soccer robots.<br>
+• Lead PCB design and component selection for robot systems.
+
+* **PCB Designer**<br>
+*June 2022 – July 2022*<br>
+*PT Helber Elektronika Indonesia*<br>
+• Design integrated PCBs combining Arduino Uno and ESP 12-E for wireless applications.
+
 
 Academic Experience
 ======
-* **Aug 2022 – Nov 2022**<br>*Academic Tutor (Vector and Matrix Theory)*<br>*Universitas Gadjah Mada*<br>• Taught vector spaces, simultaneous linear equations, and the Gram-Schmidt process.
 
-* **Feb 2022 – June 2022**<br>*Academic Tutor (Complex Variable Analysis)*<br>*Universitas Gadjah Mada*<br>• Taught analytic functions, Cauchy’s Theorem, and applications of Taylor, Laurent, and Fourier series.
+* **Academic Tutor (Vector and Matrix Theory)**<br>
+*Aug 2022 – Nov 2022*<br>
+*Universitas Gadjah Mada*<br>
+• Teach vector spaces, simultaneous linear equations, and the Gram–Schmidt process.
 
-* **Aug 2021 – Nov 2021**<br>*Academic Tutor (Linear Algebra)*<br>*Universitas Gadjah Mada*<br>• Taught Gauss-Jordan elimination, LU factorization, and Singular Value Decomposition (SVD).
+* **Academic Tutor (Complex Variable Analysis)**<br>
+*Feb 2022 – June 2022*<br>
+*Universitas Gadjah Mada*<br>
+• Teach analytic functions, Cauchy’s Theorem, and applications of Taylor, Laurent, and Fourier series.
+
+* **Academic Tutor (Linear Algebra)**<br>
+*Aug 2021 – Nov 2021*<br>
+*Universitas Gadjah Mada*<br>
+• Teach Gauss–Jordan elimination, LU factorization, and Singular Value Decomposition (SVD).
 
 Skills
 ======
