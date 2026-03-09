@@ -60,6 +60,12 @@ Research & Project Experience
 • Validate SST performance using Typhoon HIL 604.<br>
 • Synchronize signal routing across multiple DSPs.
 
+* **Embedded Power Electronics & HIL Researcher (DAB Systems)**<br>
+*Feb 2023 – Jun 2023*<br>
+*Universitas Gadjah Mada – PT PLN (Persero) Collaboration*<br>
+• Program DAB control logic for TI F28069M using PLECS Coder.<br>
+• Validate control prototypes using Typhoon HIL 604.
+
 Professional Experience
 ======
 * **Aug 2023 – Dec 2023**<br>*Machine Learning Student*<br>*Bangkit Academy*<br>• Developed a Solar Intensity Prediction System using Python for time-series modeling and regression-based forecasting.
