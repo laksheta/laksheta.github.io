@@ -34,7 +34,7 @@ Education
 Research & Project Experience
 ======
 
-* **Aug 2025 – Present**<br>*Control & Simulation Researcher (MMC-SST Integration)*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Develop full-scale Solid State Transformer (SST) simulations in Typhoon HIL.<br>• Simplify complex converter models for real-time execution optimization.<br>• Implement high-level control via PLC.
+* **Control & Simulation Researcher (MMC-SST Integration)**<br> *Aug 2025 – Present*<br>*Universitas Gadjah Mada - PT PLN (Persero) Collaboration*<br>• Develop full-scale Solid State Transformer (SST) simulations in Typhoon HIL.<br>• Simplify complex converter models for real-time execution optimization.<br>• Implement high-level control via PLC.
 
 * **Feb 2025 – Present**<br>*Graduate Researcher (DAB Fault-Tolerant Control)*<br>*Universitas Gadjah Mada*<br>• Develop Fault-Tolerant Control (FTC) strategies for Dual-Active Bridge (DAB) converters.<br>• Investigate advanced topologies to mitigate hardware faults.
 
