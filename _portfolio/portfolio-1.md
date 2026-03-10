@@ -1,27 +1,20 @@
 ---
 title: "DAB Converter Control Logic & Real-Time HIL Validation"
-excerpt: "Programmed and validated Dual-Active Bridge (DAB) control systems using PLECS Coder and Typhoon HIL 604. <br/><img src='/images/portofolio/1/header.jpg'>"
+excerpt: "Programmed and validated Dual-Active Bridge (DAB) control systems using PLECS Coder and Typhoon HIL 604. <br/><img src='/images/portofolio/1/header.jpg' width='400'>"
 collection: portfolio
-classes: wide
+# classes: wide
 ---
 
 ## Project Overview
-<!-- Explain the **problem** you were solving. [cite_start]For example, why do we need fault-tolerant control in DAB converters?[cite: 23, 24].
+This project was part of a joint research collaboration between **Universitas Gadjah Mada and PT PLN (Persero)** to validate control strategies for a modular Dual-Active Bridge (DAB) system. 
 
-## Technical Implementation
-Describe your methodology. Focus on the tools and hardware used:
-* [cite_start]**Modeling:** (e.g., PLECS or Typhoon HIL)[cite: 17, 18, 62, 63].
-* [cite_start]**Control:** (e.g., Closed-loop, Machine Learning integration)[cite: 5, 29].
-* [cite_start]**Hardware:** (e.g., TI C2000 microcontrollers, 7kW prototypes)[cite: 29, 64].
+<!-- The development and validation were executed by a three-person research team. To ensure a clear division of engineering focus, our roles were divided as follows:
+* **Algorithm Design:** Developed by my colleague.
+* [cite_start]**Embedded Implementation (My Role):** Translated the DAB simulation into deployable C-code for the **TI Launchpad F28069M** and engineered the multi-board communication architecture[cite: 39].
+* [cite_start]**HIL Operation:** Managed by another colleague using the Typhoon HIL 604 simulator[cite: 40].
 
-## Visual Validation
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="/images/simulation_waveform.png" alt="Simulation">
-  <img src="/images/hardware_setup.png" alt="Hardware">
-</div>
-<p align="center"><i>Figure: Comparison between Typhoon HIL simulation and physical hardware prototype validation.</i></p>
+[cite_start]My specific focus was bridging the gap between theoretical control algorithms and real-time hardware execution, ensuring our digital controllers could communicate flawlessly[cite: 39, 40].
 
-## Key Achievements
-* [cite_start]Successfully validated [X] algorithm on a [Y] kW prototype[cite: 29].
-* [cite_start]Reduced model complexity for real-time HIL execution by [Z]%[cite: 18].
-* [cite_start]Led a team of [N] people for hardware integration[cite: 49]. -->
+---
+
+## Core Contributions & Technical Execution -->
