@@ -1,6 +1,6 @@
 ---
-title: "Project Title"
-excerpt: "A one-sentence summary of the engineering challenge. <br/><img src='/images/500x300.png'>"
+title: "DAB Converter Control Logic & Real-Time HIL Validation"
+excerpt: "Programmed and validated Dual-Active Bridge (DAB) control systems using PLECS Coder and Typhoon HIL 604. <br/><img src='/images/dab_hil_thumbnail.png'>"
 collection: portfolio
 classes: wide
 ---
