@@ -8,13 +8,14 @@ collection: portfolio
 ## Project Overview
 This project was part of a joint research collaboration between **Universitas Gadjah Mada and PT PLN (Persero)** to validate control strategies for a modular Dual-Active Bridge (DAB) system. 
 
-<!-- The development and validation were executed by a three-person research team. To ensure a clear division of engineering focus, our roles were divided as follows:
-* **Algorithm Design:** Developed by my colleague.
-* [cite_start]**Embedded Implementation (My Role):** Translated the DAB simulation into deployable C-code for the **TI Launchpad F28069M** and engineered the multi-board communication architecture[cite: 39].
-* [cite_start]**HIL Operation:** Managed by another colleague using the Typhoon HIL 604 simulator[cite: 40].
+## Core Contributions & Technical Execution
 
-[cite_start]My specific focus was bridging the gap between theoretical control algorithms and real-time hardware execution, ensuring our digital controllers could communicate flawlessly[cite: 39, 40].
+### 1. Embedded Implementation on TI F28069M
 
----
+* **The Challenge:** A colleague developed the core control algorithm in simulation, which needed to be accurately translated into a real-time hardware environment.
+* **My Execution:** I utilized **PLECS Coder** to generate and deploy the control logic directly onto the Texas Instruments F28069M Launchpad. I configured the MCU's peripherals to ensure precise timing for the DAB switches based on the team's algorithm.
 
-## Core Contributions & Technical Execution -->
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/ti_launchpad_setup.jpg" alt="TI Launchpad Integration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1: The TI F28069M Launchpad configured for the DAB control algorithm.</i></p>
+</div>
