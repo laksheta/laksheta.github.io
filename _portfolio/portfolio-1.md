@@ -24,3 +24,7 @@ This project was part of a joint research collaboration between **Universitas Ga
   <img src="/images/portofolio/1/1_2.png" alt="Slave Side Implementation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
   <p style="font-size: 0.9em; color: #555;"><i>Figure 2. PLECS simulation for Slave-side controller.</i></p>
 </div>
+
+### 2. HIL System Integration Support
+* **The Challenge:** Hardware-in-the-loop verification is essential to ensure the implemented DAB control on the TI F28069M is reliable for real-time operation.
+* **My Execution:** While a teammate operated the **Typhoon HIL 604**, I managed the physical hardware interfacing. I troubleshot the analog and digital signal routing between the TI Launchpads and the HIL I/O interface to ensure high-fidelity real-time data flow.
