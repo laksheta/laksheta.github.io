@@ -27,4 +27,4 @@ This project was part of a joint research collaboration between **Universitas Ga
 
 ### 2. HIL System Integration Support
 * **The Challenge:** Hardware-in-the-loop verification is essential to ensure the implemented DAB control on the TI F28069M is reliable for real-time operation.
-* **My Execution:** While a teammate operated the **Typhoon HIL 604**, I managed the physical hardware interfacing. I troubleshot the analog and digital signal routing between the TI Launchpads and the HIL I/O interface to ensure high-fidelity real-time data flow.
+* **My Execution:** While my teammate, Musyaffa’ Ahmad, operated the Typhoon HIL 604, I handled the physical hardware interfacing. I synchronized the Master and Slave TI Launchpad F28069M units and troubleshot the analog and digital signal routing between the Launchpads and the HIL I/O interface.
