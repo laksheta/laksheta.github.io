@@ -16,11 +16,11 @@ This project was part of a joint research collaboration between **Universitas Ga
 * **My Execution:** I utilized **PLECS Coder** to generate and deploy the control logic directly onto the **Texas Instruments F28069M Launchpad**. To enable the modular Dual-Active Bridge implementation, I implemented the **CAN (Controller Area Network) bus** protocol to establish high-speed, synchronized communication between the Master and Slave microcontrollers.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/1/1_1.png" alt="TI Launchpad Integration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The TI F28069M Launchpad configured for the DAB control algorithm.</i></p>
+  <img src="/images/portofolio/1/1_1.png" alt="Master Side Implementation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS simulation for Master-side controller.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/1/1_2.png" alt="TI Launchpad Integration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1: The TI F28069M Launchpad configured for the DAB control algorithm.</i></p>
+  <img src="/images/portofolio/1/1_2.png" alt="Slave Side Implementation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. PLECS simulation for Slave-side controller.</i></p>
 </div>
