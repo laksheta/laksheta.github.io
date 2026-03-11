@@ -33,3 +33,8 @@ This project was part of a joint research collaboration between **Universitas Ga
   <img src="/images/portofolio/1/2_1.jpg" alt="HIL Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
   <p style="font-size: 0.9em; color: #555;"><i>Figure 3. HIL configuration with TI Launchpad F28069M and HIL I/O interface.</i></p>
 </div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/1/2_2.png" alt="SCADA Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. Real-time SCADA monitoring interface in Typhoon HIL for modular DAB.</i></p>
+</div>
