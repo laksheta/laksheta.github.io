@@ -18,27 +18,23 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/2/1_1.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Multi-DSP configuration for MMC control.</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Multi-DSP hardware architecture diagram for MMC control.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/2/1_2.jpg" alt="Cable connection" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Multi-DSP cable connection.</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Physical wiring setup showing signal routing between multiple TI C2000 Launchpads.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/2/1_3.png" alt="Master side" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. PLECS simulation for Master-side controller.</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. PLECS control logic implementation for the Master-side controller.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_4.png" alt="Slave Phase A" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
-</div>
-
-<div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_5.png" alt="Slave Phase A" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 5. PLECS simulation for Slave-side Phase A controller.</i></p>
+  <img src="/images/portofolio/2/1_4.png" alt="Slave Phase A part 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/1_5.png" alt="Slave Phase A part 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS control logic implementation for the Slave-side Phase A controller.</i></p>
 </div>
 
 ---
