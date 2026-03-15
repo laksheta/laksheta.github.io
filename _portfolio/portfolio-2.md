@@ -13,8 +13,8 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 ## Core Contributions & Technical Execution
 
 ### 1. Multi-DSP Embedded Control Development
-* **The Challenge:** Implementation of complex MMC control logic across a heterogeneous set of microcontrollers while ensuring precise regulation.
-* **My Execution:** I programmed the control logic for **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)** utilizing **PLECS Coder** for automated code generation. I synchronized the signal routing across these multiple Digital Signal Processors (DSPs) to maintain strict converter stability and regulation accuracy.
+* **The Challenge:** Integration and real-time validation of the MMC control logic, developed by teammate Lathief Nurmahmudi, onto the TI C2000 hardware platform.
+* **My Execution:** I utilized **PLECS Coder** to generate and deploy control code onto a heterogeneous set of **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)**. I engineered the signal routing and timing synchronization between these multiple DSPs to ensure stable converter operation and accurate regulation across all modules.
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/2/mmc_logic.png" alt="MMC Logic" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
