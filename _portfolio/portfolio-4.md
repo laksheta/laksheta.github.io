@@ -22,5 +22,5 @@ A 7 kW Dual-Active Bridge (DAB) prototype was developed to validate advanced con
 </div>
 
 ### 2. Startup to Closed-Loop Performance Validation
-* **The Challenge:** Validating a full-cycle control algorithm—from zero-voltage pre-charging to 7kW load regulation—within a physical high-power environment.
+* **The Challenge:** Validating the developed control algorithm on a physical 7kW DAB prototype to ensure stability and safety under high-power conditions.
 * **My Execution:** I validated the entire control sequence on the physical 7kW stack. By implementing the startup algorithm designed in PLECS, I ensured a smooth transition into closed-loop voltage regulation. The final testing confirmed that the physical system’s transient response and steady-state stability closely matched the simulation benchmarks under full 7kW loading.
