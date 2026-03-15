@@ -20,12 +20,23 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
     * **MMC Inverter:** Designed the algorithm to precharge sub-module capacitors [1] for stable grid/load integration.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_2.png" alt="Startup Sequence Results" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS simulation results validating the sequential startup of the MMC and DAB stages.</i></p>
+  <img src="/images/portofolio/3/1_1.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC rectifier result with startup algorithm</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/1_2.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. DAB result.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/1_3.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC inverter result.</i></p>
 </div>
 
 ---
 
 ## References
 [1] L. Zhang, J. Qin, X. Wu, S. Debnath and M. Saeedifard, "A Generalized Precharging Strategy for Soft Startup Process of the Modular Multilevel Converter-Based HVDC Systems," in IEEE Transactions on Industry Applications, vol. 53, no. 6, pp. 5645-5657, Nov.-Dec. 2017, doi: 10.1109/TIA.2017.2736958.
+
 [2] F. Giuliani, N. Delmonte, P. Cova, A. Costabeber and A. Castellazzi, "Soft-starting procedure for dual active bridge converter," 2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL), Vancouver, BC, Canada, 2015, pp. 1-6, doi: 10.1109/COMPEL.2015.7236516.
