@@ -17,28 +17,28 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 * **My Execution:** I utilized **PLECS Coder** to generate and deploy control code across **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)** and engineered the signal routing and timing synchronization between the multiple DSPs.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_1.png" alt="MMC Logic" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS control logic for multi-module MMC synchronization.</i></p>
+  <img src="/images/portofolio/2/1_1.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Multi-DSP configuration for MMC control.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_2.jpg" alt="MMC Logic" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS control logic for multi-module MMC synchronization.</i></p>
+  <img src="/images/portofolio/2/1_2.jpg" alt="Cable connection" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Multi-DSP cable connection.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_3.png" alt="MMC Logic" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS control logic for multi-module MMC synchronization.</i></p>
+  <img src="/images/portofolio/2/1_3.png" alt="Master side" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. PLECS simulation for Master-side controller.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_4.png" alt="MMC Logic" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS control logic for multi-module MMC synchronization.</i></p>
+  <img src="/images/portofolio/2/1_4.png" alt="Slave Phase A" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_5.png" alt="MMC Logic" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS control logic for multi-module MMC synchronization.</i></p>
+  <img src="/images/portofolio/2/1_5.png" alt="Slave Phase A" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 5. PLECS simulation for Slave-side Phase A controller.</i></p>
 </div>
 
 ---
