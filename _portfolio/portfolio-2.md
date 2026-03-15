@@ -46,11 +46,11 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/2/2_1.jpg" alt="Experiment setup" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
   <img src="/images/portofolio/2/2_2.jpg" alt="Experiment setup" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Multi-DSP setup for validation with Typhoon HIL</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Hardware-in-the-Loop (HIL) integration setup featuring the Multi-DSP controller platform and Typhoon HIL 604.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/2_3.jpg" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/2/2_4.jpeg" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Validation result from Typhoon HIL.</i></p>
+  <img src="/images/portofolio/2/2_3.jpg" alt="Python Plot 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/2_4.jpeg" alt="Python Plot 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Python-based visualization of HIL validation results for the MMC rectifier.</i></p>
 </div>
