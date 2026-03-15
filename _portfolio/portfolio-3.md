@@ -9,3 +9,19 @@ collection: portfolio
 As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, this project focused on the high-level integration of a Solid-State Transformer (SST). The work involved designing the startup procedures and coordination logic for the three conversion stages: the **MMC rectifier**, the **Dual-Active Bridge (DAB)**, and the **MMC inverter**.
 
 ---
+
+## Core Contributions & Technical Execution
+
+### 1. Multi-Stage Startup Design
+* **The Challenge:** Developing safe, automated startup sequences for each converter to prevent inrush currents and ensure stable DC-link voltage buildup.
+* **My Execution:** I designed and implemented the individual startup logic in **PLECS** for:
+    * **MMC Rectifier:** Focused on the pre-charging phase and initial DC-link stabilization.
+    * **DAB Stage:** Implemented soft-start routines to manage power transfer across the isolation barrier.
+    * **MMC Inverter:** Developed the synchronization and ramp-up logic for grid or load connection.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/1_2.png" alt="Startup Sequence Results" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS simulation results validating the sequential startup of the MMC and DAB stages.</i></p>
+</div>
+
+---
