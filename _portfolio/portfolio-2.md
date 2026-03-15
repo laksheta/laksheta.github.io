@@ -32,9 +32,9 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/1_4.png" alt="Slave Phase A part 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/2/1_5.png" alt="Slave Phase A part 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS control logic implementation for the Slave-side Phase A controller.</i></p>
+  <img src="/images/portofolio/2/1_4.png" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/1_5.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
 </div>
 
 ---
