@@ -48,11 +48,11 @@ I’m a Master of Engineering student specializing in Power Electronics and Cont
 
 <div class="work-dump">
   <img src="/images/about/1.JPG" alt="">
-  <img src="/images/about/2.JPG" alt="">
-  <img src="/images/about/3.JPG" alt="">
-  <img src="/images/about/4.JPG" alt="">
-  <img src="/images/about/5.JPG" alt="">
-  <img src="/images/about/6.JPG" alt="">
-  <img src="/images/about/7.JPG" alt="">
-  <img src="/images/about/8.JPG" alt="">
+  <img src="/images/about/2.jpg" alt="">
+  <img src="/images/about/3.jpg" alt="">
+  <img src="/images/about/4.jpg" alt="">
+  <img src="/images/about/5.jpg" alt="">
+  <img src="/images/about/6.jpg" alt="">
+  <img src="/images/about/7.jpg" alt="">
+  <img src="/images/about/8.jpg" alt="">
 </div>
