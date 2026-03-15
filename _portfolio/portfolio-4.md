@@ -1,5 +1,5 @@
 ---
-title: "Test-2"
+title: "Test-4"
 excerpt: "excerpt. <br/><img src='/images/500x300.png' width='400'>"
 collection: portfolio
 # classes: wide
