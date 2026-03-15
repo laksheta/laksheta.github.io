@@ -40,23 +40,23 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 * **My Execution:** I designed the master coordination framework for the SST system by developing logic-driven operational scenarios in **PLECS**. 
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_1.jpg" alt="MMC Rectifier" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC rectifier with startup algorithm.</i></p>
+  <img src="/images/portofolio/3/2_1.jpg" alt="Master Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. Master control implementation for the integrated SST system.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_2.jpg" alt="DAB" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. DAB with startup algorithm.</i></p>
+  <img src="/images/portofolio/3/2_2.jpg" alt="MMC Rectifier Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 5. MMC rectifier stage result (integrated SST simulation).</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_3.jpg" alt="MMC Inverter" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC inverter with startup algorithm.</i></p>
+  <img src="/images/portofolio/3/2_3.jpg" alt="DAB Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 6. DAB stage result (integrated SST simulation).</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_4.jpg.jpg" alt="MMC Inverter" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC inverter with startup algorithm.</i></p>
+  <img src="/images/portofolio/3/2_4.jpg" alt="MMC Inverter Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 7. MMC inverter stage result (integrated SST simulation).</i></p>
 </div>
 
 ## References
