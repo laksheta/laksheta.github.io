@@ -35,6 +35,10 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 </div>
 ---
 
+### 2. SST System Coordination
+* **The Challenge:** The integrated SST requires configuration scenarios to ensure the MMC rectifier, DAB, and MMC inverter stages interface and synchronize correctly during operation.
+* **My Execution:** I designed the master coordination framework for the SST system by developing logic-driven operational scenarios in **PLECS**. These scenarios manage the handshakes between conversion stages, ensuring stable power flow and proper system-wide synchronization through a logic-based approach rather than traditional state-space modeling.
+
 ## References
 [1] L. Zhang, J. Qin, X. Wu, S. Debnath and M. Saeedifard, "A Generalized Precharging Strategy for Soft Startup Process of the Modular Multilevel Converter-Based HVDC Systems," in IEEE Transactions on Industry Applications, vol. 53, no. 6, pp. 5645-5657, Nov.-Dec. 2017, doi: 10.1109/TIA.2017.2736958.
 
