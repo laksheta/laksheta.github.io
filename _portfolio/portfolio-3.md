@@ -39,6 +39,26 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 * **The Challenge:** The integrated SST requires configuration scenarios to ensure the MMC rectifier, DAB, and MMC inverter stages interface and synchronize correctly during operation.
 * **My Execution:** I designed the master coordination framework for the SST system by developing logic-driven operational scenarios in **PLECS**. 
 
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/2_1.jpg" alt="MMC Rectifier" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC rectifier with startup algorithm.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/2_2.jpg" alt="DAB" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. DAB with startup algorithm.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/2_3.jpg" alt="MMC Inverter" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC inverter with startup algorithm.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/3/2_4.jpg.jpg" alt="MMC Inverter" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC inverter with startup algorithm.</i></p>
+</div>
+
 ## References
 [1] L. Zhang, J. Qin, X. Wu, S. Debnath and M. Saeedifard, "A Generalized Precharging Strategy for Soft Startup Process of the Modular Multilevel Converter-Based HVDC Systems," in IEEE Transactions on Industry Applications, vol. 53, no. 6, pp. 5645-5657, Nov.-Dec. 2017, doi: 10.1109/TIA.2017.2736958.
 
