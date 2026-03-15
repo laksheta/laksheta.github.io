@@ -25,3 +25,7 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 </div>
 
 ---
+
+## References
+[1] L. Zhang, J. Qin, X. Wu, S. Debnath and M. Saeedifard, "A Generalized Precharging Strategy for Soft Startup Process of the Modular Multilevel Converter-Based HVDC Systems," in IEEE Transactions on Industry Applications, vol. 53, no. 6, pp. 5645-5657, Nov.-Dec. 2017, doi: 10.1109/TIA.2017.2736958.
+[2] F. Giuliani, N. Delmonte, P. Cova, A. Costabeber and A. Castellazzi, "Soft-starting procedure for dual active bridge converter," 2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL), Vancouver, BC, Canada, 2015, pp. 1-6, doi: 10.1109/COMPEL.2015.7236516.
