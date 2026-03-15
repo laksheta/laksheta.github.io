@@ -20,20 +20,19 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
     * **MMC Inverter:** Designed the algorithm to precharge sub-module capacitors [1] for stable grid/load integration.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_1.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC rectifier result with startup algorithm</i></p>
+  <img src="/images/portofolio/3/1_1.png" alt="MMC Rectifier" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC rectifier with startup algorithm.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_2.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. DAB result.</i></p>
+  <img src="/images/portofolio/3/1_2.png" alt="DAB" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. DAB with startup algorithm.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_3.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC inverter result.</i></p>
+  <img src="/images/portofolio/3/1_3.png" alt="MMC Inverter" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC inverter with startup algorithm.</i></p>
 </div>
-
 ---
 
 ## References
