@@ -14,4 +14,4 @@ A 7 kW Dual-Active Bridge (DAB) prototype was developed to validate advanced con
 
 ### 1. Controller Code Generation & Deployment
 * **The Challenge:** High-power hardware requires a reliable transition from idealized simulation to real-time executable code to ensure safety and performance.
-* **My Execution:** I utilized **PLECS Coder** to generate hardware-compatible C-code directly from the control models. This workflow involved optimizing the simulation blocks for the **TI C2000 F28379D**, specifically managing ADC-to-PWM latency and ensuring the interrupt service routines (ISR) were optimized for the DAB’s high-frequency switching requirements.
+* **My Execution:** I utilized **PLECS Coder** to generate hardware-compatible C code from the control models for the **TI Launchpad F28379D**.
