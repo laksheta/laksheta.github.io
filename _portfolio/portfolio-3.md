@@ -4,3 +4,8 @@ excerpt: "Designed sequential startup and coordination schemes for a multi-stage
 collection: portfolio
 # classes: wide
 ---
+
+## Project Overview
+As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, this project focused on the high-level integration of a Solid-State Transformer (SST). The work involved designing the startup procedures and coordination logic for the three conversion stages: the **MMC rectifier**, the **Dual-Active Bridge (DAB)**, and the **MMC inverter**.
+
+---
