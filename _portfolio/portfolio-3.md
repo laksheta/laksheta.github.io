@@ -13,7 +13,7 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 ## Core Contributions & Technical Execution
 
 ### 1. Multi-Stage Startup Design
-* **The Challenge:** Developing safe, automated startup sequences for each converter to prevent inrush currents and ensure stable DC-link voltage buildup.
+* **The Challenge:** Startup algorithms were required to prevent inrush currents for each individual converter and ensure a stable transition to full-system operation.
 * **My Execution:** I designed and implemented the individual startup logic in **PLECS** for:
     * **MMC Rectifier:** Focused on the pre-charging phase and initial DC-link stabilization.
     * **DAB Stage:** Implemented soft-start routines to manage power transfer across the isolation barrier.
