@@ -39,9 +39,14 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 
 ---
 
-### 2. Full-Scale SST Real-Time Validation
-* **The Challenge:** High-fidelity verification of Solid-State Transformer (SST) performance under real-time constraints to match industrial standards.
-* **My Execution:** I validated the SST real-time performance through high-fidelity testing on the **Typhoon HIL 604**. This involved interfacing the multi-DSP control hardware with the HIL simulator to verify the coordination between the MMC stages and the overall system response.
+### 2. HIL System Integration Support
+* **The Challenge:** Real-time hardware-in-the-loop validation of the MMC stages within a SST architecture. This process requires precise synchronization between the HIL simulation and the multi-DSP hardware.
+* **My Execution:** While my teammate, Musyaffa’ Ahmad, operated the **Typhoon HIL 604**, I managed the physical hardware interfacing for the controller side. I synchronized the **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)** and troubleshot the analog/digital signal routing to ensure high-fidelity data exchange between the DSPs and the HIL I/O interface.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/2/hil_test.jpg" alt="HIL Testing" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 5. Real-time HIL integration setup with the multi-DSP controller platform.</i></p>
+</div>
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/2/hil_test.jpg" alt="HIL Testing" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
