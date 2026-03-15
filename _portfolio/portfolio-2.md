@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 ## Project Overview
-This project, conducted under the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, focused on the embedded control and real-time validation of Modular Multilevel Converters (MMC) within a Solid-State Transformer (SST) architecture[cite: 31, 34]. My role involved developing the control logic and managing complex signal synchronization across multiple processing units to ensure system stability and precise regulation[cite: 33, 35].
+This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, focused on the real-time validation of Modular Multilevel Converters (MMC) within a Solid-State Transformer (SST) architecture to ensure system stability and regulation under industrial conditions.
 
 ---
 
