@@ -44,11 +44,17 @@ This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collabo
 * **My Execution:** While my teammate, Musyaffa’ Ahmad, operated the **Typhoon HIL 604**, I managed the physical hardware interfacing for the controller side. I synchronized the **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)** and troubleshot the analog/digital signal routing to ensure high-fidelity data exchange between the DSPs and the HIL I/O interface.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/hil_test.jpg" alt="HIL Testing" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 5. Real-time HIL integration setup with the multi-DSP controller platform.</i></p>
+  <img src="/images/portofolio/2/2_1.jpg" alt="Cable connection" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Physical wiring setup showing signal routing between multiple TI C2000 Launchpads.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/2/hil_test.jpg" alt="HIL Testing" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Real-time SST performance validation using Typhoon HIL 604.</i></p>
+  <img src="/images/portofolio/2/2_2.jpg" alt="Master side" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. PLECS control logic implementation for the Master-side controller.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/2/2_3.jpg" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/2_4.jpeg" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
 </div>
