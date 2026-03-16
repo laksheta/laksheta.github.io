@@ -19,3 +19,14 @@ As the Electronics Division Lead for the **Gadjah Mada Robotic Team (Fukuro)**, 
     * **ESP32 Shield & Motor Driver Hubs**
     * **System Integration & Cabling Architecture**
     * **Component Selection & Signal Integrity Management**
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/7/1_1.jpg" alt="Raspberry Pi 3 Controller" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Raspberry Pi 3 embedded platform used for real-time XGBoost model execution.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/7/1_2.jpeg" alt="Prosthetic Arm View 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/7/1_3.jpeg" alt="Prosthetic Arm View 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Full prototype of the 3D-printed prosthetic arm.</i></p>
+</div>
