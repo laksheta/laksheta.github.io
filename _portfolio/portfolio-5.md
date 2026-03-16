@@ -1,6 +1,6 @@
 ---
 title: "Real-Time SST Simulation: Averaged-Model Optimization"
-excerpt: "Developing resource-optimized SST simulations in Typhoon HIL using switching-cycle averaged models. <br/><img src='/images/portofolio/5/hil_sim_thumb.png' width='100' align='right'>"
+excerpt: "Developing resource-optimized SST simulations in Typhoon HIL using switching-cycle averaged models. <br/><img src='/images/portofolio/5/2_1.png' width='1000'>"
 collection: portfolio
 # classes: wide
 ---
