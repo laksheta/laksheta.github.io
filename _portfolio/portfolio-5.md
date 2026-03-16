@@ -17,19 +17,19 @@ This research focuses on developing a system-level simulation of a three-stage S
 * **My Execution:** I developed **switching-cycle averaged models** for the Rectifier, DAB, and Inverter stages in **Typhoon HIL**. Instead of modeling individual switches, the converters were represented as controlled voltage and current sources. This approach focuses the simulation on low-frequency dynamics and power flow while keeping the computation within the limits of the HIL hardware.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/5/1_1.png" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/5/1_2.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
+  <img src="/images/portofolio/5/1_1.png" alt="Rectifier Simulation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/5/1_2.png" alt="SCADA Rectifier Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC Rectifier: Typhoon HIL averaged-model simulation (top) and SCADA monitoring result (bottom).</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/5/1_3.jpg" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/5/1_4.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
+  <img src="/images/portofolio/5/1_3.jpg" alt="DAB Simulation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/5/1_4.png" alt="SCADA DAB Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. DAB Stage: Typhoon HIL averaged-model simulation (top) and SCADA monitoring result (bottom).</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/5/1_5.jpg" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/5/1_6.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
+  <img src="/images/portofolio/5/1_5.jpg" alt="Inverter Simulation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/5/1_6.png" alt="SCADA Inverter Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC Inverter: Typhoon HIL averaged-model simulation (top) and SCADA monitoring result (bottom).</i></p>
 </div>
