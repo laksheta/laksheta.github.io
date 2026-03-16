@@ -12,11 +12,10 @@ As the Electronics Division Lead for the **Gadjah Mada Robotic Team (Fukuro)**, 
 
 ## Core Contributions & Technical Execution
 
-### 1. Electronics Division Leadership & System Architecture
-* **The Challenge:** Developing a reliable, noise-immune electronic ecosystem consisting of multiple custom PCBs to handle high-current motors and sensitive control logic.
-* **My Execution:** I supervised the design and production of the robot's entire PCB suite. Under my leadership, the team developed:
-    * **Power Supply Unit (PSU) Board:** A custom board designed to provide stable voltage rails and manage high-power distribution for the drive system.
-    * **ESP32 Shield & Motor Driver Hubs:** Specialized boards to centralize the control logic and interface the microcontroller with sensors and actuators.
-    * **System Integration:** I led the component selection process and designed the cabling architecture to ensure signal integrity and electrical reliability in high-interference environments.
-
----
+### 1. Electronics Division Leadership
+* **The Challenge:** Managing the development of a full-scale electronic architecture for a high-performance autonomous robot.
+* **My Execution:** I supervised the design and production of the robot's entire PCB suite, leading the team through the development of:
+    * **Power Supply Unit (PSU) Board**
+    * **ESP32 Shield & Motor Driver Hubs**
+    * **System Integration & Cabling Architecture**
+    * **Component Selection & Signal Integrity Management**
