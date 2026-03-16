@@ -32,11 +32,11 @@ I served as the **Project Lead** and managed a cross-disciplinary team. I coordi
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/6/2_1.jpg" alt="Raspberry Pi 3 Controller" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Raspberry Pi 3 embedded platform used for real-time XGBoost model execution.</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Raspberry Pi 3 embedded platform used for real-time XGBoost model execution.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/6/2_2.jpg" alt="Prosthetic Arm View 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
   <img src="/images/portofolio/6/2_3.jpg" alt="Prosthetic Arm View 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Full prototype of the 3D-printed prosthetic arm.</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. Full prototype of the 3D-printed prosthetic arm.</i></p>
 </div>
