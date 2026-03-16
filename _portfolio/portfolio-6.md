@@ -25,3 +25,7 @@ I served as the **Project Lead** and managed a cross-disciplinary team. I coordi
   <img src="/images/portofolio/6/1.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
   <p style="font-size: 0.9em; color: #555;"><i>Figure 3. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
 </div>
+
+### 2. Embedded ML Implementation (XGBoost)
+* **The Challenge:** Implementing a high-accuracy, real-time Machine Learning classification model for 8 channels of EMG data on an edge device (Raspberry Pi 3) with strict latency requirements.
+* **My Execution:** I was responsible for the Machine Learning deployment, implementing an **XGBoost classification model** on a **Raspberry Pi 3**. I optimized the inference pipeline to process 8-channel EMG signal data in real-time, ensuring the system translated muscle signals into hand movements with high precision and minimal delay.
