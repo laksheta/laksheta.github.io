@@ -23,9 +23,24 @@ I served as the **Project Lead** and managed a cross-disciplinary team. I coordi
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/6/1.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
 </div>
 
 ### 2. Embedded ML Implementation (XGBoost)
 * **The Challenge:** Implementing a high-accuracy, real-time Machine Learning classification model for 8 channels of EMG data on an edge device (Raspberry Pi 3) with strict latency requirements.
 * **My Execution:** I was responsible for the Machine Learning deployment, implementing an **XGBoost classification model** on a **Raspberry Pi 3**. I optimized the inference pipeline to process 8-channel EMG data efficiently, enabling precise and low-latency translation of muscle signals into hand movements.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/6/2_1.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/6/2_2.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/6/2_3.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+</div>
