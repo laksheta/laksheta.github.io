@@ -21,12 +21,12 @@ As the Electronics Division Lead for the **Gadjah Mada Robotic Team (Fukuro)**, 
     * **Component Selection & Signal Integrity Management**
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/7/1_1.jpg" alt="Raspberry Pi 3 Controller" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Raspberry Pi 3 embedded platform used for real-time XGBoost model execution.</i></p>
+  <img src="/images/portofolio/7/1_1.jpg" alt="STM32 Shield, PSU, and Kicker Boards" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. STM32 shield, PSU board, and solenoid kicker board.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/7/1_2.jpeg" alt="Prosthetic Arm View 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/7/1_3.jpeg" alt="Prosthetic Arm View 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Full prototype of the 3D-printed prosthetic arm.</i></p>
+  <img src="/images/portofolio/7/1_2.jpg" alt="Autonomous Robot System" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/7/1_3.jpeg" alt="Autonomous Robot System Internal" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. The autonomous robot system.</i></p>
 </div>
