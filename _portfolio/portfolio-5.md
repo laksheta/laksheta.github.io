@@ -37,3 +37,9 @@ This research focuses on developing a system-level simulation of a three-stage S
 ### 2. Integrated SST System Simulation
 * **The Challenge:** Integrating the rectifier, DAB, and inverter stages into a single, unified SST system simulation.
 * **My Execution:** I integrated the developed averaged models into a single **Typhoon HIL** schematic. This setup enables system-level analysis of multi-stage interactions, dc-link energy balance, and overall system behavior without detailed switching models.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/5/2_1.png" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/5/2_2.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
+</div>
