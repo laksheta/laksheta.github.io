@@ -11,7 +11,7 @@ This project was completed as an undergraduate **Capstone Design** project. It i
 ---
 
 ## Team Composition & Leadership
-I served as the **Project Lead** and managed a cross-disciplinary team. I coordinated timelines, tasks, and technical integration throughout the project. The team members were **Taufik Dwi Cahyo, Ariq Tsaqif Aryasuta, Rihadatul Aisy N. P., and Sri Novia Wulandari**.
+I served as the **Project Lead** and managed a cross-disciplinary team. I coordinated timelines, tasks, and technical integration throughout the project. The team members were Taufik Dwi Cahyo, Ariq Tsaqif Aryasuta, Rihadatul Aisy N. P., and Sri Novia Wulandari.
 
 ---
 

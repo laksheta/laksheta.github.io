@@ -15,7 +15,7 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 ### 1. Multi-Stage Startup Design
 * **The Challenge:** Startup algorithms were required to prevent inrush currents for each individual converter and ensure a stable transition to full-system operation.
 * **My Execution:** I designed and validated the following algorithms in **PLECS**:
-    * **MMC Rectifier:** Designed the algorithm to precharge sub-module capacitors [1] in collaboration with teammate **Ariq Naufal Fakri Wiratno**.
+    * **MMC Rectifier:** Designed the algorithm to precharge sub-module capacitors [1] in collaboration with teammate Ariq Naufal Fakri Wiratno.
     * **DAB Startup:** Developed a soft-start algorithm by ramping up the phase shift [2] to ensure stable power transfer.
     * **MMC Inverter:** Designed the algorithm to precharge sub-module capacitors [1] for stable grid/load integration.
 
@@ -37,7 +37,7 @@ As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, t
 
 ### 2. SST System Coordination
 * **The Challenge:** The integrated SST requires configuration scenarios to ensure the MMC rectifier, DAB, and MMC inverter stages interface and synchronize correctly during operation.
-* **My Execution:** I designed the master coordination framework for the SST system by developing logic-driven operational scenarios in **PLECS**. 
+* **My Execution:** I designed **the master coordination framework** for the SST system by developing logic-driven operational scenarios in **PLECS**. 
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/3/2_1.jpg" alt="Master Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
