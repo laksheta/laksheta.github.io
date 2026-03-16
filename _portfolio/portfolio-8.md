@@ -4,3 +4,8 @@ excerpt: "Designed an integrated PCB for PT Helber Elektronika Indonesia that me
 collection: portfolio
 # classes: wide
 ---
+
+## Project Overview
+As a **PCB Design Intern** at **PT Helber Elektronika Indonesia**, I developed a unified hardware solution for wireless embedded applications. The objective was to consolidate the processing power of the Arduino Uno (Atmega328P) with the WiFi connectivity of the ESP 12-E into a single, production-ready PCB.
+
+---
