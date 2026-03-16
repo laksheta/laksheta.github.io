@@ -33,3 +33,7 @@ This research focuses on developing a system-level simulation of a three-stage S
   <img src="/images/portofolio/5/1_6.png" alt="SCADA Inverter Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
   <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC Inverter: Typhoon HIL averaged-model simulation (top) and SCADA monitoring result (bottom).</i></p>
 </div>
+
+### 2. Integrated SST System Simulation
+* **The Challenge:** Integrating the rectifier, DAB, and inverter stages into a single, unified SST system simulation.
+* **My Execution:** I unified the developed averaged models into a single **Typhoon HIL** schematic. This integrated setup provides a robust platform for analyzing multi-stage interactions, DC-link energy balance, and overall system response to grid disturbances without the overhead of detailed switching models.
