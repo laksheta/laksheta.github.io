@@ -36,4 +36,4 @@ This research focuses on developing a system-level simulation of a three-stage S
 
 ### 2. Integrated SST System Simulation
 * **The Challenge:** Integrating the rectifier, DAB, and inverter stages into a single, unified SST system simulation.
-* **My Execution:** I unified the developed averaged models into a single **Typhoon HIL** schematic. This integrated setup provides a robust platform for analyzing multi-stage interactions, DC-link energy balance, and overall system response to grid disturbances without the overhead of detailed switching models.
+* **My Execution:** I integrated the developed averaged models into a single **Typhoon HIL** schematic. This setup enables system-level analysis of multi-stage interactions, dc-link energy balance, and overall system behavior without detailed switching models.
