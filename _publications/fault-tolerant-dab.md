@@ -1,8 +1,9 @@
 ---
 title: "Fault-Tolerant Control for Single-Phase Dual Active Bridge using Adjusted Phase Shift Mode"
 collection: publications
-category: manuscripts
+category: proposal
 permalink: /publication/fault-tolerant-dab-thesis
+paperurl: '{{ site.baseurl }}/files/publication/Thesis_Proposal_Krishna.pdf'
 date: 2026-03-16
 venue: 'Master’s Thesis Proposal, Universitas Gadjah Mada'
 ---
