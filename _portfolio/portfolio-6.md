@@ -9,3 +9,8 @@ collection: portfolio
 This project was completed as an undergraduate **Capstone Design** project. It involved leading a multidisciplinary team to develop an EMG-controlled prosthetic arm. The system uses eight EMG sensors to classify a user’s intended hand gestures using machine learning, which then drives the arm’s motors with low latency on an embedded edge device.
 
 ---
+
+## Team Composition & Leadership
+I served as the **Project Lead** and managed a cross-disciplinary team. I coordinated timelines, tasks, and technical integration throughout the project. The team members were **Taufik Dwi Cahyo, Ariq Tsaqif Aryasuta, Rihadatul Aisy N. P., and Sri Novia Wulandari**.
+
+---
