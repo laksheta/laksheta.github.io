@@ -17,11 +17,11 @@ As a **PCB Design Intern** at **PT Helber Elektronika Indonesia**, I developed a
 * **My Execution:** I designed a PCB that integrates the Arduino Uno and ESP 12-E architectures. I developed a unified power management circuit to support their different voltage requirements and optimized trace routing for reliable serial communication. The result was a compact board optimized for IoT prototyping and wireless embedded systems.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/8/1_1.jpg" alt="Integrated Arduino Uno and ESP 12-E PCB" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Integrated Arduino Uno and ESP 12-E PCB design.</i></p>
+  <img src="/images/portofolio/8/1_1.jpg" alt="ESP 12-E Breadboard Prototype" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. ESP 12-E prototype on a breadboard during initial development.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/8/1_2.png" alt="Integrated Arduino Uno and ESP 12-E PCB" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Integrated Arduino Uno and ESP 12-E PCB design.</i></p>
+  <img src="/images/portofolio/8/1_2.png" alt="Unified PCB Design" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Unified Arduino Uno and ESP 12-E PCB design.</i></p>
 </div>
