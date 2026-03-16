@@ -30,3 +30,8 @@ As the Electronics Division Lead for the **Gadjah Mada Robotic Team (Fukuro)**, 
   <img src="/images/portofolio/7/1_3.jpeg" alt="Autonomous Robot System Internal" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
   <p style="font-size: 0.9em; color: #555;"><i>Figure 2. The autonomous robot system.</i></p>
 </div>
+
+
+### 2. High-Voltage Solenoid PCB
+* **The Challenge:** Designing a power electronic system to drive a solenoid kicker with high force and millisecond precision while ensuring safe control of high-voltage capacitor discharge.
+* **My Execution:** I designed the Solenoid Kicker PCB for autonomous robot. I developed a high-power switching stage to discharge high-voltage capacitors into the solenoid actuator. I also optimized the PCB layout to handle high-current transients and applied signal isolation to improve hardware reliability.
