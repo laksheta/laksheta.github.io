@@ -20,3 +20,8 @@ I served as the **Project Lead** and managed a cross-disciplinary team. I coordi
 ### 1. Team Leadership & Technical Integration
 * **The Challenge:** Integrating complex mechanical, electrical, and biomedical subsystems from scratch while managing a multidisciplinary team with different technical timelines.
 * **My Execution:** As the **Project Lead**, I managed the overall project timeline and defined the technical interfaces between subsystems to ensure proper integration. I also supervised the development of custom motor drivers and improved the 3D-printed arm structure to accommodate the embedded electronics.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/6/1.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+</div>
