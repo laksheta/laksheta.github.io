@@ -31,16 +31,12 @@ I served as the **Project Lead** and managed a cross-disciplinary team. I coordi
 * **My Execution:** I was responsible for the Machine Learning deployment, implementing an **XGBoost classification model** on a **Raspberry Pi 3**. I optimized the inference pipeline to process 8-channel EMG data efficiently, enabling precise and low-latency translation of muscle signals into hand movements.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/6/2_1.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+  <img src="/images/portofolio/6/2_1.jpg" alt="Raspberry Pi 3 Controller" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Raspberry Pi 3 embedded platform used for real-time XGBoost model execution.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/6/2_2.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
-</div>
-
-<div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/6/2_3.jpg" alt="Capstone Project Expo Team" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. The project team at our exhibition booth during the Capstone Design Expo.</i></p>
+  <img src="/images/portofolio/6/2_2.jpg" alt="Prosthetic Arm View 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/6/2_3.jpg" alt="Prosthetic Arm View 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Full prototype of the 3D-printed prosthetic arm.</i></p>
 </div>
