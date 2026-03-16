@@ -3,7 +3,7 @@ title: "Fault-Tolerant Control for Single-Phase Dual Active Bridge using Adjuste
 collection: publications
 category: proposal
 permalink: /publication/fault-tolerant-dab-thesis
-paperurl: '{{ site.baseurl }}/files/publication/Thesis_Proposal_Krishna.pdf'
+paperurl: '/files/publication/Thesis_Proposal_Krishna.pdf'
 date: 2026-03-16
 venue: 'Master’s Thesis Proposal, Universitas Gadjah Mada'
 ---
@@ -15,4 +15,4 @@ Key highlights:
 * **Seamless Integration:** Designed for easy implementation on microcontrollers for hardware verification.
 * **Versatility:** Optimized for electric vehicle charging, energy storage systems, and renewable energy integration.
 
-*Status: In Progress / Thesis Proposal Stage.*
+*Status: In Progress / Thesis Proposal Stage.*a
