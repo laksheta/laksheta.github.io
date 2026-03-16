@@ -16,7 +16,7 @@ As the Electronics Division Lead for the **Gadjah Mada Robotic Team (Fukuro)**, 
 * **The Challenge:** Managing the development of a full-scale electronic architecture for a high-performance autonomous robot.
 * **My Execution:** I supervised the design and production of the robot's entire PCB suite, leading the team through the development of:
     * **Power Supply Unit (PSU) Board**
-    * **ESP32 Shield & Motor Driver Hubs**
+    * **STM32 Shield & Motor Driver Hubs**
     * **System Integration & Cabling Architecture**
     * **Component Selection & Signal Integrity Management**
 
