@@ -14,3 +14,9 @@ This project was completed as an undergraduate **Capstone Design** project. It i
 I served as the **Project Lead** and managed a cross-disciplinary team. I coordinated timelines, tasks, and technical integration throughout the project. The team members were **Taufik Dwi Cahyo, Ariq Tsaqif Aryasuta, Rihadatul Aisy N. P., and Sri Novia Wulandari**.
 
 ---
+
+## Core Contributions & Technical Execution
+
+### 1. Team Leadership & Technical Integration
+* **The Challenge:** Integrating complex mechanical, electrical, and biomedical subsystems from scratch while managing a multidisciplinary team with different technical timelines.
+* **My Execution:** As the **Project Lead**, I managed the overall project timeline and defined the technical interfaces between subsystems to ensure proper integration. I also supervised the development of custom motor drivers and improved the 3D-printed arm structure to accommodate the embedded electronics.
