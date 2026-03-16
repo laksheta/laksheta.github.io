@@ -15,4 +15,4 @@ Key highlights:
 * **Seamless Integration:** Designed for easy implementation on microcontrollers for hardware verification.
 * **Versatility:** Optimized for electric vehicle charging, energy storage systems, and renewable energy integration.
 
-*Status: In Progress / Thesis Proposal Stage.*a
+*Status: In Progress / Thesis Proposal Stage.*
