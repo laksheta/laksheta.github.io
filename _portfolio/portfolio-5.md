@@ -39,7 +39,7 @@ This research focuses on developing a system-level simulation of a three-stage S
 * **My Execution:** I integrated the developed averaged models into a single **Typhoon HIL** schematic. This setup enables system-level analysis of multi-stage interactions, dc-link energy balance, and overall system behavior without detailed switching models.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/5/2_1.png" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
-  <img src="/images/portofolio/5/2_2.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
+    <img src="/images/portofolio/5/2_1.png" alt="SST System Simulation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+    <img src="/images/portofolio/5/2_2.png" alt="SST SCADA Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+    <p style="font-size: 0.9em; color: #555;"><i>Figure 4. Integrated SST System: Full-scale Typhoon HIL simulation (top) and system-wide SCADA result (bottom).</i></p>
 </div>
