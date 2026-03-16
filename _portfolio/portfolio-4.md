@@ -23,7 +23,7 @@ A 7 kW Dual-Active Bridge (DAB) prototype was developed to validate advanced con
 
 ### 2. Startup to Closed-Loop Performance Validation
 * **The Challenge:** Validating the developed control algorithm on a physical 7kW DAB prototype to ensure stability and safety under high-power conditions.
-* **My Execution:** I used **PLECS Coder** to generate real-time C code from the developed control logic for the **TI Launchpad F28379D**. I then validated the system experimentally on the 7 kW DAB prototype, confirming stable startup and reliable closed-loop regulation.
+* **My Execution:** I used **PLECS Coder** to generate real-time C code from the developed control logic for the **TI Launchpad F28379D**. My teammate, Taufik Dwi Cahyo, and I then validated the system experimentally on the 7 kW DAB prototype, confirming stable startup and reliable closed-loop regulation.
 
 <div style="text-align: center; margin: 25px 0;">
   <img src="/images/portofolio/4/2_1.jpg" alt="DAB Prototype Setup" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
