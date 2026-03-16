@@ -1,27 +1,40 @@
 ---
-title: "Project Title"
-excerpt: "A one-sentence summary of the engineering challenge. <br/><img src='/images/500x300.png'>"
+title: "DAB Converter Control Logic & Real-Time HIL Validation"
+excerpt: "Programmed and validated Dual-Active Bridge (DAB) control systems using PLECS Coder and Typhoon HIL 604. <br/><img src='/images/portofolio/1/header.jpg' width='300'>"
 collection: portfolio
-classes: wide
+# classes: wide
 ---
 
 ## Project Overview
-<!-- Explain the **problem** you were solving. [cite_start]For example, why do we need fault-tolerant control in DAB converters?[cite: 23, 24].
+This project was part of a joint research collaboration between **Universitas Gadjah Mada and PT PLN (Persero)** to validate control strategies for a modular Dual-Active Bridge (DAB) system. 
 
-## Technical Implementation
-Describe your methodology. Focus on the tools and hardware used:
-* [cite_start]**Modeling:** (e.g., PLECS or Typhoon HIL)[cite: 17, 18, 62, 63].
-* [cite_start]**Control:** (e.g., Closed-loop, Machine Learning integration)[cite: 5, 29].
-* [cite_start]**Hardware:** (e.g., TI C2000 microcontrollers, 7kW prototypes)[cite: 29, 64].
+## Core Contributions & Technical Execution
 
-## Visual Validation
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="/images/simulation_waveform.png" alt="Simulation">
-  <img src="/images/hardware_setup.png" alt="Hardware">
+### 1. Embedded Implementation on TI F28069M
+
+* **The Challenge:** My colleague, Lathief Nurmahmudi, developed the core control algorithm in simulation, which needed to be accurately translated into a real-time hardware environment for modular operation.
+* **My Execution:** I utilized **PLECS Coder** to generate and deploy the control logic directly onto the **Texas Instruments F28069M Launchpad**. To facilitate the modular DAB implementation, I integrated the CAN bus protocol to establish communication between the master and slave microcontrollers.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/1/1_1.png" alt="Master Side Implementation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. PLECS simulation for Master-side controller.</i></p>
 </div>
-<p align="center"><i>Figure: Comparison between Typhoon HIL simulation and physical hardware prototype validation.</i></p>
 
-## Key Achievements
-* [cite_start]Successfully validated [X] algorithm on a [Y] kW prototype[cite: 29].
-* [cite_start]Reduced model complexity for real-time HIL execution by [Z]%[cite: 18].
-* [cite_start]Led a team of [N] people for hardware integration[cite: 49]. -->
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/1/1_2.png" alt="Slave Side Implementation" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. PLECS simulation for Slave-side controller.</i></p>
+</div>
+
+### 2. HIL System Integration Support
+* **The Challenge:** Hardware-in-the-loop verification is essential to ensure the implemented DAB control on the TI F28069M is reliable for real-time operation.
+* **My Execution:** While my teammate, Musyaffa’ Ahmad, operated the Typhoon HIL 604, I handled the physical hardware interfacing. I synchronized the Master and Slave TI Launchpad F28069M units and troubleshot the analog and digital signal routing between the Launchpads and the HIL I/O interface.
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/1/2_1.jpg" alt="HIL Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. HIL configuration with TI Launchpad F28069M and HIL I/O interface.</i></p>
+</div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/1/2_2.png" alt="SCADA Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. Real-time SCADA monitoring interface in Typhoon HIL for modular DAB.</i></p>
+</div>
