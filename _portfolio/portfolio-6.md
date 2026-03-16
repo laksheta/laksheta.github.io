@@ -28,4 +28,4 @@ I served as the **Project Lead** and managed a cross-disciplinary team. I coordi
 
 ### 2. Embedded ML Implementation (XGBoost)
 * **The Challenge:** Implementing a high-accuracy, real-time Machine Learning classification model for 8 channels of EMG data on an edge device (Raspberry Pi 3) with strict latency requirements.
-* **My Execution:** I was responsible for the Machine Learning deployment, implementing an **XGBoost classification model** on a **Raspberry Pi 3**. I optimized the inference pipeline to process 8-channel EMG signal data in real-time, ensuring the system translated muscle signals into hand movements with high precision and minimal delay.
+* **My Execution:** I was responsible for the Machine Learning deployment, implementing an **XGBoost classification model** on a **Raspberry Pi 3**. I optimized the inference pipeline to process 8-channel EMG data efficiently, enabling precise and low-latency translation of muscle signals into hand movements.
