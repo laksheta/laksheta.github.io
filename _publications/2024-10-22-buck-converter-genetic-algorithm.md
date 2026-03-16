@@ -1,7 +1,7 @@
 ---
 title: "Buck Converter Parameters Design Using Artificial Intelligence-Based Genetic Algorithm"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-buck-converter-genetic-algorithm
 date: 2024-10-22
 venue: '2024 16th International Conference on Information Technology and Electrical Engineering (ICITEE)'
