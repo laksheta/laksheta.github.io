@@ -4,3 +4,8 @@ excerpt: "Led the electronics division for Gadjah Mada Robotic Team (Fukuro), ma
 collection: portfolio
 classes: wide
 ---
+
+## Project Overview
+As the Electronics Division Lead for the **Gadjah Mada Robotic Team (Fukuro)**, I led the development of electronic systems for autonomous soccer robots competing in **KRSBI (Indonesian Soccer Robot Competition)**. My role included hardware architecture design, division management, and the development of key power management and actuation circuits.
+
+---
