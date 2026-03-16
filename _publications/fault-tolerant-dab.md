@@ -5,6 +5,7 @@ category: proposal
 permalink: /publication/fault-tolerant-dab-thesis
 paperurl: '/files/publication/Thesis_Proposal_Krishna.pdf'
 date: 2026-03-16
+excerpt: ''
 venue: 'Master’s Thesis Proposal, Universitas Gadjah Mada'
 ---
 
