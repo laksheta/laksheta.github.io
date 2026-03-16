@@ -1,7 +1,7 @@
 ---
 title: "Voltage Control Using Long-Short-Term Memory (LSTM) for Dual-Active-Bridge (DAB) Converter"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-01-01-voltage-control-lstm-dab
 date: 2025-01-01
 venue: '2025 17th International Conference on Information Technology and Electrical Engineering (ICITEE)'

@@ -1,7 +1,7 @@
 ---
 title: "Jitter Clock Effect Analysis on Modular Dual Active Bridge (MDAB) Converter"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-12-07-jitter-clock-mdab
 date: 2023-12-07
 venue: '2023 International Conference on Advanced Mechatronics, Intelligent Manufacture and Industrial Automation (ICAMIMIA)'
