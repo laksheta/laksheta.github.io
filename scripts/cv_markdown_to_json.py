@@ -335,6 +335,35 @@ def parse_teaching(teaching_dir):
     
     return teaching
 
+# def parse_portfolio(portfolio_dir):
+#     """Parse portfolio items from the _portfolio directory."""
+#     portfolio = []
+    
+#     if not os.path.exists(portfolio_dir):
+#         return portfolio
+    
+#     for portfolio_file in sorted(glob.glob(os.path.join(portfolio_dir, "*.md"))):
+#         with open(portfolio_file, 'r', encoding='utf-8') as file:
+#             content = file.read()
+        
+#         # Extract front matter
+#         front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+#         if front_matter_match:
+#             front_matter = yaml.safe_load(front_matter_match.group(1))
+            
+#             # Extract portfolio details
+#             portfolio_entry = {
+#                 "name": front_matter.get('title', ''),
+#                 "category": front_matter.get('collection', 'portfolio'),
+#                 "date": front_matter.get('date', ''),
+#                 "url": front_matter.get('permalink', ''),
+#                 "description": front_matter.get('excerpt', '')
+#             }
+            
+#             portfolio.append(portfolio_entry)
+    
+#     return portfolio
+
 def parse_portfolio(portfolio_dir):
     """Parse portfolio items from the _portfolio directory."""
     portfolio = []
@@ -342,7 +371,10 @@ def parse_portfolio(portfolio_dir):
     if not os.path.exists(portfolio_dir):
         return portfolio
     
-    for portfolio_file in sorted(glob.glob(os.path.join(portfolio_dir, "*.md"))):
+    for portfolio_file in sorted(
+        glob.glob(os.path.join(portfolio_dir, "*.md")),
+        reverse=True
+    ):
         with open(portfolio_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
@@ -351,7 +383,6 @@ def parse_portfolio(portfolio_dir):
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
             
-            # Extract portfolio details
             portfolio_entry = {
                 "name": front_matter.get('title', ''),
                 "category": front_matter.get('collection', 'portfolio'),
