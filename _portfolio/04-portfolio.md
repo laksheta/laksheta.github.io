@@ -1,65 +1,56 @@
 ---
-title: "SST System-Level Integration & Coordination Design"
-excerpt: "Designed sequential startup and coordination schemes for a multi-stage Solid-State Transformer (MMC-DAB-MMC) architecture using PLECS. <br/><img src='/images/portofolio/3/header.png' width='1000'>"
+title: "Multi-DSP Control Implementation for MMC"
+excerpt: "Programmed Modular Multilevel Converters (MMC) control logic for multi-DSP systems (F28379D, F280049C) and validated full-scale SST performance using Typhoon HIL 604. <br/><img src='/images/portofolio/2/header.jpg' width='300'>"
 collection: portfolio
 # classes: wide
 ---
 
 ## Project Overview
-As part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, this project focused on the high-level integration of a Solid-State Transformer (SST). The work involved designing the startup procedures and coordination logic for the three conversion stages: the **MMC rectifier**, the **Dual-Active Bridge (DAB)**, and the **MMC inverter**.
+This project, part of the **Universitas Gadjah Mada – PT PLN (Persero) Collaboration**, focused on the real-time validation of Modular Multilevel Converters (MMC) within a Solid-State Transformer (SST) architecture to ensure system stability and regulation under industrial conditions.
 
 ---
 
 ## Core Contributions & Technical Execution
 
-### 1. Multi-Stage Startup Design
-* **The Challenge:** Startup algorithms were required to prevent inrush currents for each individual converter and ensure a stable transition to full-system operation.
-* **My Execution:** I designed and validated the following algorithms in **PLECS**:
-    * **MMC Rectifier:** Designed the algorithm to precharge sub-module capacitors [1] in collaboration with teammate Ariq Naufal Fakri Wiratno.
-    * **DAB Startup:** Developed a soft-start algorithm by ramping up the phase shift [2] to ensure stable power transfer.
-    * **MMC Inverter:** Designed the algorithm to precharge sub-module capacitors [1] for stable grid/load integration.
+### 1. Multi-DSP Embedded Control Development
+* **The Challenge:** Integration and real-time validation of the MMC control logic, developed by teammate Lathief Nurmahmudi, onto the TI C2000 hardware platform.
+* **My Execution:** I utilized **PLECS Coder** to generate and deploy control code across **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)** and engineered the signal routing and timing synchronization between the multiple DSPs.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_1.png" alt="MMC Rectifier" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. MMC rectifier with startup algorithm.</i></p>
+  <img src="/images/portofolio/2/1_1.png" alt="Configuration" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Multi-DSP hardware architecture diagram for MMC control.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_2.png" alt="DAB" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. DAB with startup algorithm.</i></p>
+  <img src="/images/portofolio/2/1_2.jpg" alt="Cable connection" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Physical wiring setup showing signal routing between multiple TI C2000 Launchpads.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/1_3.png" alt="MMC Inverter" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. MMC inverter with startup algorithm.</i></p>
+  <img src="/images/portofolio/2/1_3.png" alt="Master side" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 3. PLECS control logic implementation for the Master-side controller.</i></p>
 </div>
+
+<div style="text-align: center; margin: 25px 0;">
+  <img src="/images/portofolio/2/1_4.png" alt="Slave Phase A Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/1_5.png" alt="Slave Phase A PWM and CAN" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. PLECS simulation for Slave-side Phase A controller.</i></p>
+</div>
+
 ---
 
-### 2. SST System Coordination
-* **The Challenge:** The integrated SST requires configuration scenarios to ensure the MMC rectifier, DAB, and MMC inverter stages interface and synchronize correctly during operation.
-* **My Execution:** I designed **the master coordination framework** for the SST system by developing logic-driven operational scenarios in **PLECS**. 
+### 2. HIL System Integration Support
+* **The Challenge:** Real-time hardware-in-the-loop validation of the MMC stages within a SST architecture. This process requires precise synchronization between the HIL simulation and the multi-DSP hardware.
+* **My Execution:** While my teammate, Musyaffa’ Ahmad, operated the **Typhoon HIL 604**, I managed the physical hardware interfacing for the controller side. I synchronized the **TI C2000 microcontrollers (F280049C, F28069M, and F28379D)** and troubleshot the analog/digital signal routing to ensure high-fidelity data exchange between the DSPs and the HIL I/O interface.
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_1.jpg" alt="Master Control" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 4. Master control implementation for the integrated SST system.</i></p>
+  <img src="/images/portofolio/2/2_1.jpg" alt="Experiment setup" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/2_2.jpg" alt="Experiment setup" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 1. Hardware-in-the-Loop (HIL) integration setup featuring the Multi-DSP controller platform and Typhoon HIL 604.</i></p>
 </div>
 
 <div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_2.jpg" alt="MMC Rectifier Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 5. MMC rectifier stage result (integrated SST simulation).</i></p>
+  <img src="/images/portofolio/2/2_3.jpg" alt="Python Plot 1" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd; margin-bottom: 10px;">
+  <img src="/images/portofolio/2/2_4.jpeg" alt="Python Plot 2" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
+  <p style="font-size: 0.9em; color: #555;"><i>Figure 2. Python-based visualization of HIL validation results for the MMC rectifier.</i></p>
 </div>
-
-<div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_3.jpg" alt="DAB Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 6. DAB stage result (integrated SST simulation).</i></p>
-</div>
-
-<div style="text-align: center; margin: 25px 0;">
-  <img src="/images/portofolio/3/2_4.jpg" alt="MMC Inverter Result" style="max-width: 80%; border-radius: 6px; border: 1px solid #ddd;">
-  <p style="font-size: 0.9em; color: #555;"><i>Figure 7. MMC inverter stage result (integrated SST simulation).</i></p>
-</div>
-
-## References
-[1] L. Zhang, J. Qin, X. Wu, S. Debnath and M. Saeedifard, "A Generalized Precharging Strategy for Soft Startup Process of the Modular Multilevel Converter-Based HVDC Systems," in IEEE Transactions on Industry Applications, vol. 53, no. 6, pp. 5645-5657, Nov.-Dec. 2017, doi: 10.1109/TIA.2017.2736958.
-
-[2] F. Giuliani, N. Delmonte, P. Cova, A. Costabeber and A. Castellazzi, "Soft-starting procedure for dual active bridge converter," 2015 IEEE 16th Workshop on Control and Modeling for Power Electronics (COMPEL), Vancouver, BC, Canada, 2015, pp. 1-6, doi: 10.1109/COMPEL.2015.7236516.
