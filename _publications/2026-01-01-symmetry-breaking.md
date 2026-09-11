@@ -3,6 +3,7 @@ title: "Symmetry-Breaking-Based Fault Localization in Dual Active Bridge Convert
 collection: publications
 category: conferences
 permalink: /publication/2026-08-15-symmetry-breaking-fault-localization-dab
+paperurl: '/files/publication/ZPEC_2026_Krishna.pdf'
 date: 2026-08-15
 excerpt: 'Accepted for publication at ZPEC 2026.'
 venue: 'Zhejiang Power Electronics Conference (ZPEC)'
