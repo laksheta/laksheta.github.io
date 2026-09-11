@@ -73,28 +73,23 @@ Currently, I am focused on:
   }
 
   .work-dump {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    display: flex;
+    flex-wrap: wrap;
     gap: 10px;
     margin-top: 30px;
   }
 
   .work-dump img {
-    width: 100%;
+    width: calc(25% - 10px);
     height: 200px;
-    object-fit: contain;
+    object-fit: cover;
     border-radius: 4px;
     background-color: #f0f0f0;
-    display: block;
   }
 
   @media (max-width: 800px) {
-    .work-dump {
-      grid-template-columns: repeat(2, 1fr);
-    }
-
     .work-dump img {
-      height: 180px;
+      width: calc(50% - 10px);
     }
   }
 </style>
