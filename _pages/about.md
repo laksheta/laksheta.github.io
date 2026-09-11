@@ -15,7 +15,7 @@ Currently, I am focused on:
 * **SST Modeling:** Designing high-fidelity Solid-State Transformer models using **Typhoon HIL**.
 
 
-<style>
+<!-- <style>
   /* 1. Force the page content to occupy the full width of the container */
   .page {
     padding-right: 0 !important;
@@ -60,4 +60,54 @@ Currently, I am focused on:
   <img src="/images/about/6.jpg" alt="">
   <img src="/images/about/7.jpg" alt="">
   <img src="/images/about/8.jpg" alt="">
+</div> -->
+
+<style>
+  .page {
+    padding-right: 0 !important;
+  }
+
+  .page__content {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .work-dump {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 30px;
+  }
+
+  .work-dump img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    display: block;
+  }
+
+  @media (max-width: 800px) {
+    .work-dump {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .work-dump img {
+      height: 180px;
+    }
+  }
+</style>
+
+<div class="work-dump">
+  <img src="/images/about/1.JPG" alt="">
+  <img src="/images/about/2.jpg" alt="">
+  <img src="/images/about/3.jpg" alt="">
+  <img src="/images/about/4.jpg" alt="">
+  <img src="/images/about/5.jpg" alt="">
+  <img src="/images/about/6.jpg" alt="">
+  <img src="/images/about/7.jpg" alt="">
+  <img src="/images/about/8.jpg" alt="">
+  <img src="/images/about/9.jpg" alt="">
+  <img src="/images/about/10.jpg" alt="">
 </div>
