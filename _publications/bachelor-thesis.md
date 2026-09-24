@@ -4,7 +4,7 @@ collection: publications
 category: undergraduate
 permalink: /publication/desain-parameter-buck-converter
 paperurl: '/files/publication/Skripsi_Krishna_Laksheta.pdf'
-date: YYYY-MM-DD
+date: 2024-07-22
 excerpt: ''
 venue: "Bachelor's Thesis, Universitas Gadjah Mada"
 ---
