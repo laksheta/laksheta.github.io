@@ -1,5 +1,5 @@
 ---
-title: "DESAIN PARAMETER BUCK CONVERTER BERBASIS ARTIFICIAL INTELLIGENCE"
+title: "Desain Parameter Buck Converter Berbasis Artificial Intelligence"
 collection: publications
 category: undergraduate
 permalink: /publication/desain-parameter-buck-converter
